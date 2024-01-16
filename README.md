@@ -1,5 +1,6 @@
 
-##recreate the structure of explaining our scope. 
+##recreate the structure of explaining our scope.
+ 
 ##document it.
 ##add all the info
 ##make a lot of screenshot
