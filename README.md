@@ -1,5 +1,5 @@
 
-##recreate the structure of explaining our scope.
+## recreate the structure of explaining our scope.
  
 ##document it.
 
